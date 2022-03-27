@@ -10,6 +10,6 @@
 - 😎 &nbsp; For fun I surf, hike, golf, and travel.
 ### 🤝 &nbsp; Let's Connect! 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessecurran)](https://www.linkedin.com/in/jessecurran) &nbsp; [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:curranje@oregonstate.edu.com)](mailto:curranje@oregonstate.edu)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessecurran)](https://www.linkedin.com/in/jessecurran) 
 
 

@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there, I'm Jesse!
 
-<!--
-**jesse-curran/jesse-curran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏼‍💻 &nbsp; About Me 
 
-Here are some ideas to get you started:
+- 💼 &nbsp; Working Full-Time as a Finance Rotational Analyst @ Providence.
+- 🎓 &nbsp; Studying Computer Science @ Oregon State, eta December 2023. 
+- 🌱 &nbsp; Currently learning Python, Javascript, PowerBI, and Advanced Excel.
+- 🤔 &nbsp; Looking for help with career development, project collaboration, and finding new ways to have fun. 
+- ✅ &nbsp; Goals: 1) Create fun projects. 2) Network. 3) Fail forward.
+- 😎 &nbsp; For fun I surf, hike, golf, and travel.
+### 🤝 &nbsp; Let's Connect! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessecurran)](https://www.linkedin.com/in/jessecurran) &nbsp; [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:curranje@oregonstate.edu.com)](mailto:curranje@oregonstate.edu)
+
+
